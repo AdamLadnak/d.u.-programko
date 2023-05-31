@@ -9,3 +9,14 @@ C:\Users\ASUS\source\repos\1.jun_príprava\obj\Debug\1.jun_príprava.csproj.Gene
 C:\Users\ASUS\source\repos\1.jun_príprava\obj\Debug\1.jun_príprava.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\source\repos\1.jun_príprava\obj\Debug\1.jun_príprava.exe
 C:\Users\ASUS\source\repos\1.jun_príprava\obj\Debug\1.jun_príprava.pdb
+C:\Users\ASUS\source\repos\príprava\bin\Debug\1.jun_príprava.exe.config
+C:\Users\ASUS\source\repos\príprava\bin\Debug\1.jun_príprava.exe
+C:\Users\ASUS\source\repos\príprava\bin\Debug\1.jun_príprava.pdb
+C:\Users\ASUS\source\repos\príprava\obj\Debug\1.jun_príprava.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\príprava\obj\Debug\1.jun_príprava.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\príprava\obj\Debug\_1.jun_príprava.Form1.resources
+C:\Users\ASUS\source\repos\príprava\obj\Debug\_1.jun_príprava.Properties.Resources.resources
+C:\Users\ASUS\source\repos\príprava\obj\Debug\1.jun_príprava.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\príprava\obj\Debug\1.jun_príprava.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\príprava\obj\Debug\1.jun_príprava.exe
+C:\Users\ASUS\source\repos\príprava\obj\Debug\1.jun_príprava.pdb

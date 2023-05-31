@@ -32,7 +32,7 @@ namespace _1.jun_príprava
             string rok_narodenia = textBox3.Text;
             string robota = textBox4.Text;
             Clovek.Add(new Human(meno, priezvisko, rok_narodenia, robota));
-            File.AppendAllText(@"C:\\Users\ASUS\source\repos\1.jun_príprava\zoznam.txt", textBox1.Text + ";" + textBox2.Text + ";" + textBox3.Text + ";" + textBox4.Text + "; \n");
+            File.AppendAllText(@"C:\\Users\ASUS\source\repos\príprava\zoznam.txt", textBox1.Text + ";" + textBox2.Text + ";" + textBox3.Text + ";" + textBox4.Text + "; \n");
             //textBox1.Text = textBox2.Text = textBox3.Text = textBox4.Text = string.Empty;
 
         }
@@ -47,7 +47,7 @@ namespace _1.jun_príprava
             }
 
             /* //zapísanie zo súboru
-            string[] lines = File.ReadAllLines(@"C:\\Users\ASUS\source\repos\1.jun_príprava\zoznam.txt");
+            string[] lines = File.ReadAllLines(@"C:\\Users\ASUS\source\repos\príprava\zoznam.txt");
             string[] values;
             dataGridView1.Rows.Clear();
 
@@ -68,7 +68,7 @@ namespace _1.jun_príprava
 
         private void button3_Click(object sender, EventArgs e)
         {
-            File.Create(@"C:\\Users\ASUS\source\repos\1.jun_príprava\zoznam.txt").Close();
+            File.Create(@"C:\\Users\ASUS\source\repos\príprava\zoznam.txt").Close();
         }
     }
 }
